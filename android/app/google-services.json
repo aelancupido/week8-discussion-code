@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "472104100788",
+    "project_id": "cmsc23-amcupido",
+    "storage_bucket": "cmsc23-amcupido.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472104100788:android:c32c789da286a4f17dc8e1",
+        "android_client_info": {
+          "package_name": "com.example.week7_networking_discussion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472104100788-8m4tmdpib3pmkfc0rv7pdqjdfv4oj79b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA83xDi4tS3X_nuxJwwe3ZH5NGlVz8tPAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472104100788-8m4tmdpib3pmkfc0rv7pdqjdfv4oj79b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "472104100788-kubt54tjgot334i5smb3jeqlnn202qfq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.week7NetworkingDiscussion"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
